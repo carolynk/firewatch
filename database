@@ -20,3 +20,6 @@ CREATE TABLE [dbo].[FireWatcher](
 	[IsFire] [int] NULL
 ) ON [PRIMARY]
 GO
+
+
+Server=tcp:firewatcher.database.windows.net,1433;Initial Catalog=FireWatcher;Persist Security Info=False;User ID=EPapas;Password={your_password};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
