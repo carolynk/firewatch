@@ -1,0 +1,4 @@
+Server=tcp:firewatcher.database.windows.net
+user id=EPapas
+password=naNo2009(sqlisfun!
+providerName="System.Data.EntityClient
